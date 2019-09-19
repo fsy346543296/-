@@ -1,0 +1,17 @@
+.box1 {
+    width: 800px;
+    background-color: #f34652;
+    margin: 0 auto;
+}
+.box2 {
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(to right,pink,#f37651);
+    border-radius: 250px;
+    margin: 0 auto;
+}
+p {
+    text-align: center;
+    line-height: 80px;
+    color: #f54321;
+}
